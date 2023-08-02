@@ -1,0 +1,4 @@
+baseURL = 'https://phongkythuat.github.io'
+languageCode = 'en-us'
+title = 'Phòng Kỹ Thuật Check Camera'
+theme = 'contrast-hugo'
